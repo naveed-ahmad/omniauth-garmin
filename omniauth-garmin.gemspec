@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/naveed-ahmad/omniauth-garmin".freeze
   s.licenses = ["MIT".freeze]
-  s.rubygems_version = "3.0.3".freeze
+  s.rubygems_version = "2.7.8".freeze
   s.summary = "OmniAuth strategy for Garmin".freeze
 
   if s.respond_to? :specification_version then
