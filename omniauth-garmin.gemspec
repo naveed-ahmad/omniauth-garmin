@@ -19,6 +19,20 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.md"
   ]
+  s.files = [
+    ".document",
+    "Gemfile",
+    "Gemfile.lock",
+    "LICENSE",
+    "LICENSE.txt",
+    "README.md",
+    "Rakefile",
+    "VERSION",
+    "lib/omniauth-garmin.rb",
+    "lib/omniauth-garmin/version.rb",
+    "lib/omniauth/strategies/garmin.rb",
+    "omniauth-garmin.gemspec"
+  ]
   s.homepage = "http://github.com/naveed-ahmad/omniauth-garmin".freeze
   s.licenses = ["MIT".freeze]
   s.rubygems_version = "3.0.3".freeze
