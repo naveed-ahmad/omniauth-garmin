@@ -11,6 +11,6 @@ gem 'omniauth-oauth', '~> 1.1.0'
 group :development do
   gem "rdoc", "~> 3.12"
   gem "bundler", "~> 2.0.2"
-  gem "juwelier", "~> 2.4.7"
+  gem "juwelier", "~> 2.4.9"
   gem "simplecov", ">= 0"
 end

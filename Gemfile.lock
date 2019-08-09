@@ -72,7 +72,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 2.0.2)
-  juwelier (~> 2.4.7)
+  juwelier (~> 2.4.9)
   omniauth-oauth (~> 1.1.0)
   rdoc (~> 3.12)
   simplecov
