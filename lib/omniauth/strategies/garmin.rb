@@ -10,7 +10,7 @@ module OmniAuth
           site: 'https://connect.garmin.com',
           request_token_path: 'https://connectapi.garmin.com/oauth-service/oauth/request_token',
           access_token_path: 'https://connectapi.garmin.com/oauth-service/oauth/access_token',
-          authorize_url: 'http://connect.garmin.com/oauthConfirm'
+          authorize_url: 'https://connect.garmin.com/oauthConfirm'
       }
 
       uid do
